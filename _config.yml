@@ -104,3 +104,4 @@ theme: landscape
 deploy:
   type: git
   repository: 'git@github.com:jayljill0706/jayljill0706.github.io.git'
+  branch: main
